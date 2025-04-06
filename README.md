@@ -14,11 +14,13 @@
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     2| VBA       |
+|     3| Python    |
 
-</details>
-⌨ Languages.Programming: JavaScriptn, JavaScript, VBA  
+
+</details><br/>
+
+⌨ Languages.Programming: JavaScript, VBA, Python
 🖥 Languages.Computer: HTML, CSS  
 🗣 Languages.Real: English 🇬🇧, Spanish 🇪🇸 (conversational), French 🇫🇷 (basic)  
 😁 Hobbies.Software: Data Analysis, Tool building, Automation  
