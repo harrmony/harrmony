@@ -1,5 +1,5 @@
-⏲ Uptime: First year
-🧐 Focus: AI-Assisted Coding Projects
+<tspan x="15" y="10">⏲ Uptime: First year</tspan>
+<tspan x="15" y="30">🧐 Focus: AI-Assisted Coding Projects</tspan>
 ⌨ Languages.Programming: JavaScriptn, JavaScript, VBA
 🖥 Languages.Computer: HTML, CSS
 🗣 Languages.Real: English 🇬🇧, Spanish 🇪🇸 (conversational), French 🇫🇷 (basic)
