@@ -20,7 +20,7 @@
 
 </details><br/>
 
-⌨ Languages.Programming: JavaScript, VBA, Python
+⌨ Languages.Programming: JavaScript, VBA, Python  
 🖥 Languages.Computer: HTML, CSS  
 🗣 Languages.Real: English 🇬🇧, Spanish 🇪🇸 (conversational), French 🇫🇷 (basic)  
 😁 Hobbies.Software: Data Analysis, Tool building, Automation  
